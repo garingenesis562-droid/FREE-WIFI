@@ -57,7 +57,7 @@ document.getElementById("prank").style.display="block";
 
 <div id="prank">
 <h1>PRANK! 😂</h1>
-<img src="https://i.imgur.com/4AiXzf8.jpeg">
+<img src="content://media/external/downloads/1000028095">
 <p>No free WiFi here!</p>
 </div>
 
